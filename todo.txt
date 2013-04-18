@@ -1,1 +1,2 @@
-learn about branches
+learn about conflicts
+
